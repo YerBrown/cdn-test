@@ -1,0 +1,604 @@
+{
+    "keyItems": [
+        {
+            "key": "#HELLO",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Hola, este es el LAB para idiomas"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Hi, this is the language LAB"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Olá, este é o LAB de idiomas"
+                }
+            ]
+        },
+        {
+            "key": "#LISTEN",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Escuchar Bienvenida"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Listen Welcome"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Ouça Bem-vindo"
+                }
+            ]
+        },
+        {
+            "key": "#WONDERFUL",
+            "contentType": "IMG",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "https://assets.webiconspng.com/uploads/2017/09/House-PNG-Image-48319.png"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "https://assets.webiconspng.com/uploads/2017/09/House-PNG-Image-43020.png"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "https://assets.webiconspng.com/uploads/2017/09/House-PNG-Image-61711.png"
+                }
+            ]
+        },
+        {
+            "key": "#SHIPTO",
+            "contentType": "IMG",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": ""
+                },
+                {
+                    "isoKey": "EN",
+                    "content": ""
+                },
+                {
+                    "isoKey": "PT",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "key": "#WELCOME",
+            "contentType": "AUDIO",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": ""
+                },
+                {
+                    "isoKey": "EN",
+                    "content": ""
+                },
+                {
+                    "isoKey": "PT",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "key": "#PLAY",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Jugar"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Play"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Jogar"
+                }
+            ]
+        },
+        {
+            "key": "#OPTIONS",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Opciones"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Options"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Opções"
+                }
+            ]
+        },
+        {
+            "key": "#GAMESETUP",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Configuracion"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Game Setup"
+                }
+            ]
+        },
+        {
+            "key": "#MUTE",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Silenciar Audio"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Mute Audio"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Áudio Mudo"
+                }
+            ]
+        },
+        {
+            "key": "#MASTERVOL",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Volumen General"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Master Volume"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Volume Principal"
+                }
+            ]
+        },
+        {
+            "key": "#MUSICVOL",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Volumen Música"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Music Volume"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Volume Música"
+                }
+            ]
+        },
+        {
+            "key": "#SFXVOL",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Volumen de efectos"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Sound FX Volume"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Volume dos efeitos sonoros"
+                }
+            ]
+        },
+        {
+            "key": "#VOICEVOL",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Volumen de voces"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Voices Volume"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Volume de vozes"
+                }
+            ]
+        },
+        {
+            "key": "#LANGUAGE",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Idioma"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Language"
+                },
+                {
+                    "isoKey": "PT",
+                    "content": "Língua"
+                }
+            ]
+        },
+        {
+            "key": "#GENERALSETTINGS",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Ajustes Generales"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "General Settings"
+                }
+            ]
+        },
+        {
+            "key": "#APPLYCHANGES",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Aplicar Cambios"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Apply Changes"
+                }
+            ]
+        },
+        {
+            "key": "#RESETSETTINGS",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Restablecer la configuración predeterminada"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Reset to default settings"
+                }
+            ]
+        },
+        {
+            "key": "#INFORMATION",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Informacion"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Information"
+                }
+            ]
+        },
+        {
+            "key": "#SUPPORT",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Soporte"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Support"
+                }
+            ]
+        },
+        {
+            "key": "#AUDIO",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Sonido"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Audio"
+                }
+            ]
+        },
+        {
+            "key": "#MUSIC",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Musica"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Music"
+                }
+            ]
+        },
+        {
+            "key": "#SFX",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "SFX"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "SFX"
+                }
+            ]
+        },
+        {
+            "key": "#GRAPHICS",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Graficos"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Graphics"
+                }
+            ]
+        },
+        {
+            "key": "#SHOP",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Tienda"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Shop"
+                }
+            ]
+        },
+        {
+            "key": "#EXITGAME",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Salir del juego"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Exit Game"
+                }
+            ]
+        },
+        {
+            "key": "#BALANCE",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Saldo"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Balance"
+                }
+            ]
+        },
+        {
+            "key": "#AUTOPLAY",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Automatico"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Autoplay"
+                }
+            ]
+        },
+        {
+            "key": "#SWEEPENTRY",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Participaciones en sorteos"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Sweepstakes Entries"
+                }
+            ]
+        },
+        {
+            "key": "#GAMEMENU",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "MENU DE JUEGO"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "GAME MENU"
+                }
+            ]
+        },
+        {
+            "key": "#PAYTAB",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "TABLA DE PAGOS"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "PAYOUT TABLE"
+                }
+            ]
+        },
+        {
+            "key": "#WILDINFO",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Este símbolo sustituye a cualquier otro símbolo excepto a los scatters."
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "This symbol replaces any other symbols except scatters."
+                }
+            ]
+        },
+        {
+            "key": "#SCATTERINFO",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Cuando aparezcan tres de estos símbolos en el tablero, se te concederán tiradas gratuitas."
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "When three of this symbol appear on the board, you will be granted free spins."
+                }
+            ]
+        },
+        {
+            "key": "#PAYLINES",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "LINEAS DE PAGO"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "PAYLINES"
+                }
+            ]
+        },
+        {
+            "key": "#YOUWON",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Has Ganado"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "You Won"
+                }
+            ]
+        },
+        {
+            "key": "#FREESPIN",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Tiradas Gratis"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Free Spins!"
+                }
+            ]
+        },
+        {
+            "key": "#FREESPINEND",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "¡Tiradas Gratis Completadas!"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Free Spins Completed !"
+                }
+            ]
+        },
+        {
+            "key": "#BIGWIN",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "¡¡¡Gran victoria!!!"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "BigWin !!!"
+                }
+            ]
+        },
+        {
+            "key": "#WON",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "Ganado!!"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "Won !!"
+                }
+            ]
+        },
+        {
+            "key": "#CONGRATULATIONS",
+            "contentType": "TXT",
+            "languageItems": [
+                {
+                    "isoKey": "ES",
+                    "content": "FELICIDADES!!"
+                },
+                {
+                    "isoKey": "EN",
+                    "content": "CONGRATULATIONS!"
+                }
+            ]
+        }
+
+
+    ]
+}
